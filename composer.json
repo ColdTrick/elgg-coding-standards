@@ -1,5 +1,5 @@
 {
-	"name": "elgg/sniffs",
+	"name": "coldtrick/sniffs",
 	"description": "Elgg coding standards",
 	"version": "0.2.0-dev",
 	"require": {
